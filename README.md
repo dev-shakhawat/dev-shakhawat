@@ -3,7 +3,7 @@
 ### MERN Developer | FULL Stack Developer | Frontend Developer | Passionate about Learning New Technologies
 
 📧 Reach me at: shakhawat.code@gmail.com   
-💼 LinkedIn: https://www.linkedin.com/in/dev-shakhawat
+💼 LinkedIn: https://www.linkedin.com/in/dev-shakhawat <br>
 💼 Medium: https://shakhawat-dev.medium.com
 
 ---
