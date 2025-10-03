@@ -1,10 +1,9 @@
 ## Hi there 👋 I'm MD. Shakhawat Hossain
 
-### Frontend Developer | Passionate about Learning New Technologies
+### MERN Developer | FULL Stack Developer | Frontend Developer | Passionate about Learning New Technologies
 
-📧 Reach me at: shakhawat.code@gmail.com  
-🔗 Portfolio: [Your Portfolio Link]  
-💼 LinkedIn: [Your LinkedIn Profile]
+📧 Reach me at: shakhawat.code@gmail.com   
+💼 LinkedIn: https://www.linkedin.com/in/dev-shakhawat/
 
 ---
 
