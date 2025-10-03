@@ -6,17 +6,6 @@
 💼 LinkedIn: https://www.linkedin.com/in/dev-shakhawat <br>
 💼 Medium: https://shakhawat-dev.medium.com
 
----
-
-## 🎯 Personal Goals & Challenges
-
-- [ ] Waking up early to boost productivity
-- [x] Coding 6+ hours daily on complex projects  
-- [x] Exercising 3 times a week for balance
-- [ ] Earning new certifications in development
-- [ ] Contributing to open-source regularly
-
----
 
 ## 🛠️ Technologies & Tools
 
@@ -33,6 +22,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+---
+
+## 🎯 Personal Goals & Challenges
+
+- [ ] Waking up early to boost productivity
+- [x] Coding 6+ hours daily on complex projects  
+- [x] Exercising 3 times a week for balance
+- [ ] Earning new certifications in development
+- [ ] Contributing to open-source regularly
 
 ---
 
