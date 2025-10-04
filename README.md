@@ -18,7 +18,7 @@
 ![Vite](https://img.shields.io/badge/vite-bd6cea?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-796af3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn](https://img.shields.io/badge/Shadcn-cab879?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-cf649a?style=for-the-badge&logo=SASS&logoColor=white)
 ![SASS](https://img.shields.io/badge/figma-9170fd?style=for-the-badge&logo=figma&logoColor=white)
 
