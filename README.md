@@ -50,7 +50,7 @@
 ## 📫 Let's Connect!
 
 - 📧 Email: shakhawat.code@gmail.com
-- 💼 LinkedIn: https://medium.com/@shakhawat-dev
+- 💼 Medium: https://medium.com/@shakhawat-dev
 - 🐙 GitHub: https://github.com/dev-shakhawat
 - 💼 LinkedIn: https://www.linkedin.com/in/dev-shakhawat
 
