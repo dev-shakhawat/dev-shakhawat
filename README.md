@@ -1,4 +1,4 @@
-## Hi there 👋 I'm MD. Shakhawat Hossain
+## Hi there 👋 I'm Md. Shakhawat Hossain
 
 ### MERN Developer | FULL Stack Developer | Frontend Developer | Passionate about Learning New Technologies
 
