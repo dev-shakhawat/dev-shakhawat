@@ -22,7 +22,7 @@
 ![SASS](https://img.shields.io/badge/sass-cf649a?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### App Development:
-![Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 ### Backend & Tools:
