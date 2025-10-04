@@ -43,15 +43,15 @@
 
 ## 📊 GitHub Stats
 
-![Shakhawat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-shakhawat&show_icons=true&theme=radical)
+#![Shakhawat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-shakhawat&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Let's Connect!
 
 - 📧 Email: shakhawat.code@gmail.com
-- 💼 LinkedIn: [https://medium.com/@shakhawat-dev]
-- 🐙 GitHub: [https://github.com/dev-shakhawat]
-- 💼 LinkedIn: [https://www.linkedin.com/in/dev-shakhawat]
+- 💼 LinkedIn: https://medium.com/@shakhawat-dev
+- 🐙 GitHub: https://github.com/dev-shakhawat
+- 💼 LinkedIn: https://www.linkedin.com/in/dev-shakhawat
 
 
