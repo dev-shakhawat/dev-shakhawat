@@ -35,6 +35,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Post_Man](https://img.shields.io/badge/PostMan-e26533?style=for-the-badge&logo=postman&logoColor=white)
+![swagger](https://img.shields.io/badge/swagger-87e92d?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
