@@ -20,7 +20,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-796af3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Shadcn](https://img.shields.io/badge/Shadcn-cab879?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-cf649a?style=for-the-badge&logo=SASS&logoColor=white)
-![SASS](https://img.shields.io/badge/figma-9170fd?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-9170fd?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm&logoColor=white)
 
 ### App Development:
 ![Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
