@@ -3,6 +3,13 @@
 ### MERN Developer | FULL Stack Developer | Frontend Developer | Passionate about Learning New Technologies
 
 
+## 📫 Let's Connect!
+
+- 📧 Email: shakhawat.code@gmail.com
+- 💼 Medium: https://medium.com/@shakhawat-dev
+- 🐙 GitHub: https://github.com/dev-shakhawat
+- 💼 LinkedIn: https://www.linkedin.com/in/dev-shakhawat
+
 
 ## 🛠️ Technologies & Tools
 
@@ -58,11 +65,5 @@
 
 ---
 
-## 📫 Let's Connect!
-
-- 📧 Email: shakhawat.code@gmail.com
-- 💼 Medium: https://medium.com/@shakhawat-dev
-- 🐙 GitHub: https://github.com/dev-shakhawat
-- 💼 LinkedIn: https://www.linkedin.com/in/dev-shakhawat
 
 
