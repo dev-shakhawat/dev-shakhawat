@@ -7,9 +7,9 @@
 
 - 📧 Email: inform.shakhawat@gmail.com
 - 💼 Medium: https://medium.com/@shakhawat-dev
-- 🐙 GitHub: https://github.com/dev-shakhawat
+- 💼 Dev: https://dev.to/shakhawat_dev
 - 💼 LinkedIn: https://www.linkedin.com/in/dev-shakhawat
-
+- https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg NPM: https://www.npmjs.com/~shakhawat.dev
 
 ## 🛠️ Technologies & Tools
 
