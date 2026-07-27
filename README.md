@@ -57,13 +57,7 @@
 - [ ] Earning new certifications in development
 - [ ] Contributing to open-source regularly
 
----
 
-## 📊 GitHub Stats
-
-#![Shakhawat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-shakhawat&show_icons=true&theme=radical)
-
----
 
 
 
